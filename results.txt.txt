@@ -1,0 +1,27 @@
+Summary of Results:
+Window Size: 50, Trees: 30    
+AUC: 0.79501, F1: 0.94898     
+Window Size: 50, Trees: 50    
+AUC: 0.79877, F1: 0.95385     
+Window Size: 50, Trees: 100   
+AUC: 0.81643, F1: 0.96641     
+Window Size: 100, Trees: 30   
+AUC: 0.68095, F1: 0.81215     
+Window Size: 100, Trees: 50   
+AUC: 0.68457, F1: 0.81461     
+Window Size: 100, Trees: 100  
+AUC: 0.69639, F1: 0.85475     
+Window Size: 500, Trees: 30   
+AUC: 0.55667, F1: 0.40643     
+Window Size: 500, Trees: 50   
+AUC: 0.56666, F1: 0.51471     
+Window Size: 500, Trees: 100  
+AUC: 0.57940, F1: 0.73469     
+Window Size: 1000, Trees: 30  
+AUC: 0.50484, F1: 0.02056     
+Window Size: 1000, Trees: 50  
+AUC: 0.50722, F1: 0.02056     
+Window Size: 1000, Trees: 100 
+AUC: 0.51370, F1: 0.02056 
+
+Score calculated in the range 0-1.
