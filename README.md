@@ -72,7 +72,7 @@ Parameters:
 
 To visualize the results with a static plot, the anomalies are plotted against the data stream. True anomalies are highlighted in green, while detected anomalies are marked in red.
 
-![[100trees.png]]
+![Static visualiztion with 100 trees](/100trees.png)
 
 Alternatively, you can visualize the detection results in **real-time** with the `live_plot_dynamic_threshold` function:
 
